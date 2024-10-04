@@ -1,0 +1,36 @@
+.text-gray {
+    color: #7f7f90;
+}
+
+.text-darkgray {
+    color: #37373f;
+}
+
+.p-gray {
+    color: #4f4f5a;
+}
+
+.text-balck {
+    color: black;
+}
+
+.text-red {
+    color: #ce1212;
+}
+
+.btn-red {
+    background-color: #CE1212;
+    border: none;
+    color: white;
+}
+
+
+.title-font {
+    font-family: "Amatic SC", sans-serif;
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.shadow{
+    box-shadow: 4px 6px 8px rgba(0, 0, 0, 0.2);
+}
